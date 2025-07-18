@@ -81,7 +81,7 @@ const Footer=()=>{
                             
                         }} />
                         <p className="text-[16px] leading-7 font-[400] text-textColor mt-0">
-                            Copyright ©️ {year} developed by Yesh Singh all rights reserved.
+                            Copyright ©️ {year} developed by Shrey Tiwari all rights reserved.
                         </p>
 
                         <div className="flex items-center gap-3 mt-4">
